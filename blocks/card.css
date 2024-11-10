@@ -42,4 +42,8 @@
   .card__image {
     height: 288px;
   }
+
+  .card__titel {
+    max-width: 250px;
+  }
 }
