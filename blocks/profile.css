@@ -16,7 +16,6 @@
   display: flex;
   flex-direction: column;
   max-width: 420px;
-  height: 88%;
 }
 
 .profile__name {
@@ -24,7 +23,7 @@
   font-size: 32px;
   line-height: 1;
   max-width: 420px;
-  min-height: 32px;
+
   margin: 0 0 12px;
   text-overflow: ellipsis;
   overflow: hidden;
@@ -38,7 +37,6 @@
   margin: 0 0 12px;
   font-weight: 500;
   max-width: 420px;
-  min-height: 32px;
   font-size: 16px;
   line-height: 1;
   text-overflow: ellipsis;
@@ -114,7 +112,6 @@
   }
 
   .profile__description {
-    height: 16px;
     max-width: 288px;
     margin: 0 0 32px;
   }
