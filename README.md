@@ -12,7 +12,7 @@ so it feels like you are there.
 
 **Figma**
 
-- [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
+[link to my video about my dream spot ] (https://drive.google.com/file/d/16xi9taj5mSpuGZ3Z6_BOfq0vZjX0pTDm/view?usp=sharing)
 
 **Images**
 
