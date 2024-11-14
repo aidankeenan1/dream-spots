@@ -15,6 +15,7 @@
 }
 
 .card__like-btn {
+  background-size: cover;
   cursor: pointer;
   background-image: url(../images/Union.svg);
   width: 23px;
