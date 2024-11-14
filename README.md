@@ -12,10 +12,4 @@ so it feels like you are there.
 
 **Figma**
 
-[link to my video about my dream spot ] (https://drive.google.com/file/d/16xi9taj5mSpuGZ3Z6_BOfq0vZjX0pTDm/view?usp=sharing)
-
-**Images**
-
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
-
-Good luck and have fun!
+[link to my video about my dream spot ] (https://drive.google.com/file/d/1-WkGFD57PqMR-4MhWyaFcHL1PdojiZ34/view?usp=sharing)
